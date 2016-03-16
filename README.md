@@ -1,2 +1,1 @@
-# hello-world
-Hello-world repository for use with free code camp
+I'm a 49-year-old fat chick and geek. I work for Apple as a senior technical advisor, taking support calls from my home in the Atlanta area. I'm learning to code in order to improve my QA and technical writing skills.
